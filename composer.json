@@ -1,0 +1,23 @@
+{
+  "name": "smitmartijn/discord-table-builder",
+  "description": "A simple package to create tables in Discord messages.",
+  "type": "library",
+  "keywords": ["discord", "table", "builder"],
+  "autoload": {
+    "psr-4": {
+      "Smitmartijn\\DiscordTableBuilder\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.2"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": "GPL-3.0-or-later",
+  "authors": [
+    {
+      "name": "Martijn Smit",
+      "homepage": "https://lostdomain.org"
+    }
+  ]
+}
